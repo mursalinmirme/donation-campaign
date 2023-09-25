@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 const Card = ({card}) => {
     const {id, img, title, category, cate_btn_bg, card_bg, text_color} = card;
     return (
-        <Link to={`/donation/${id}`}>
+        <Link to={`/donationItem/${id}`}>
         <div style={{background: `${card_bg}`}} className="rounded-lg">
             <img className="w-full" src={img} alt="" />
             <div className="p-4">
