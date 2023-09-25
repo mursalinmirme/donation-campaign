@@ -1,0 +1,135 @@
+[
+    {
+      "id": 1,
+      "img": "https://i.ibb.co/jJTYwKc/Health.png",
+      "title": "Medical Supplies for Children",
+      "category": "Health",
+      "cate_btn_bg": "#0052ff33",
+      "card_bg": "#0052ff26",
+      "text_color": "#0052FF",
+      "description": "Help provide essential medical supplies to underprivileged children in need of healthcare.",
+      "price": 1000
+    },
+    {
+      "id": 2,
+      "img": "https://i.ibb.co/BypBcVx/Education.png",
+      "title": "Scholarships for Girls",
+      "category": "Education",
+      "cate_btn_bg": "#ff444a33",
+      "card_bg": "#ff444a26",
+      "text_color": "#FF444A",
+      "description": "Support girls' education by funding scholarships for their academic pursuits.",
+      "price": 500
+    },
+    {
+      "id": 3,
+      "img": "https://i.ibb.co/bsGL2KL/Clothing.png",
+      "title": "Warm Winter Clothes Drive",
+      "category": "Clothing",
+      "cate_btn_bg": "#79c23f33",
+      "card_bg": "#79c23f26",
+      "text_color": "#79C23F",
+      "description": "Donate warm winter clothing to keep those in need warm during the cold season.",
+      "price": 50
+    },
+    {
+      "id": 4,
+      "img": "https://i.ibb.co/yykgssy/Food.png",
+      "title": "Emergency Food Relief",
+      "category": "Food",
+      "cate_btn_bg": "#f8714733",
+      "card_bg": "#f8714726",
+      "text_color": "#F87147",
+      "description": "Contribute to our food relief program to help those facing hunger in our community.",
+      "price": 25
+    },
+    {
+      "id": 5,
+      "img": "https://i.ibb.co/yykgssy/Food.png",
+      "title": "Meals for Homeless Individuals",
+      "category": "Food",
+      "cate_btn_bg": "#f8714733",
+      "card_bg": "#f8714726",
+      "text_color": "#F87147",
+      "description": "Provide warm meals and essentials to homeless individuals in our city.",
+      "price": 20
+    },
+    {
+      "id": 6,
+      "img": "https://i.ibb.co/bsGL2KL/Clothing.png",
+      "title": "Back-to-School Clothing Drive",
+      "category": "Clothing",
+      "cate_btn_bg": "#79c23f33",
+      "card_bg": "#79c23f26",
+      "text_color": "#79C23F",
+      "description": "Support students in need by donating school clothing for the upcoming academic year.",
+      "price": 40
+    },
+    {
+      "id": 7,
+      "img": "https://i.ibb.co/BypBcVx/Education.png",
+      "title": "Empower Underserved STEM Youth",
+      "category": "Education",
+      "cate_btn_bg": "#ff444a33",
+      "card_bg": "#ff444a26",
+      "text_color": "#FF444A",
+      "description": "Empower underserved youth with quality STEM education programs.",
+      "price": 300
+    },
+    {
+      "id": 8,
+      "img": "https://i.ibb.co/jJTYwKc/Health.png",
+      "title": "Maternal Health Support",
+      "category": "Health",
+      "cate_btn_bg": "#0052ff33",
+      "card_bg": "#0052ff26",
+      "text_color": "#0052FF",
+      "description": "Provide critical maternal health support to ensure safe childbirth for mothers and babies.",
+      "price": 750
+    },
+    {
+      "id": 9,
+      "img": "https://i.ibb.co/jJTYwKc/Health.png",
+      "title": "Vaccinate Vulnerable Communities",
+      "category": "Health",
+      "cate_btn_bg": "#0052ff33",
+      "card_bg": "#0052ff26",
+      "text_color": "#0052FF",
+      "description": "Support a vaccination campaign to protect vulnerable communities from diseases.",
+      "price": 1200
+    },
+    {
+      "id": 10,
+      "img": "https://i.ibb.co/BypBcVx/Education.png",
+      "title": "Library Expansion Project",
+      "category": "Education",
+      "cate_btn_bg": "#ff444a33",
+      "card_bg": "#ff444a26",
+      "text_color": "#FF444A",
+      "description": "Help expand local libraries to provide more educational resources to the community.",
+      "price": 600
+    },
+    {
+      "id": 11,
+      "img": "https://i.ibb.co/bsGL2KL/Clothing.png",
+      "title": "Winter Coats for Children",
+      "category": "Clothing",
+      "cate_btn_bg": "#79c23f33",
+      "card_bg": "#79c23f26",
+      "text_color": "#79C23F",
+      "description": "Ensure children stay warm during the winter by donating winter coats.",
+      "price": 60
+    },
+    {
+      "id": 12,
+      "img": "https://i.ibb.co/yykgssy/Food.png",
+      "title": "Fresh Community Produce",
+      "category": "Food",
+      "cate_btn_bg": "#f8714733",
+      "card_bg": "#f8714726",
+      "text_color": "#F87147",
+      "description": "Support a community garden initiative to provide fresh produce to those in need.",
+      "price": 30
+    }
+  ]
+
