@@ -35,15 +35,15 @@ const data = [
   };
   return (
     <div className="max-w-[1350px] mx-auto flex justify-center items-center h-[100vh]">
-      <PieChart width={500} height={500}>
+      <PieChart width={400} height={400}>
         <Pie
           data={data}
           dataKey="value"
           nameKey="name" 
           cx="50%"
           cy="50%"
-          outerRadius={200}
-          fill="#000000"
+          outerRadius={170}
+          fill="#8884d8"
           labelLine={false} 
           label={renderCustomizedLabel}
         >
@@ -51,7 +51,7 @@ const data = [
               <Cell key={`cell-${index}`} fill={COLORS[index % COLORS.length]} />
             ))}
         </Pie>
-        <Legend className="flex flex-row-reverse" />
+        <Legend />
       </PieChart>
     </div>
   );
