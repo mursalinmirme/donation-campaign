@@ -10,7 +10,7 @@ const Navbar = () => {
       <div className="">
         <img className="w-2/3" src="/Logo.png" alt="" />
       </div>
-      <div className="absolute top-16 right-3 lg:right-0 lg:top-0 lg:static">
+      <div className="absolute z-10 top-16 right-3 lg:right-0 lg:top-0 lg:static">
         <div className={`${menuShow ? 'block' : 'hidden'} lg:block`}>
         <ul className="flex lg:visible flex-col bg-white text-[#0B0B0B] border lg:bg-transparent lg:border-none rounded-md w-52 lg:w-auto p-2 lg:flex-row gap-3 lg:gap-10 text-md lg:text-lg font-medium">
           <NavLink
